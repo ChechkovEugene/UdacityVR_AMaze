@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Udacity/Scripts/Door.cs">
+    <Files>
+      <File FileName="Assets/Udacity/Scripts/Door.cs" Line="11" Column="37" />
+      <File FileName="Assets/Udacity/Scripts/Coin.cs" Line="8" Column="22" />
+      <File FileName="Assets/Udacity/Scripts/Key.cs" Line="23" Column="1" />
+      <File FileName="Assets/Udacity/Scripts/SignPost.cs" Line="10" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chechkoveugene/Work/Udacity/VRND_Nanodegree/Course4_AMaze/UdacityVR_AMaze/Assets/Udacity/Scripts/Door.cs" line="22" column="3" />
+      <Breakpoint file="/Users/chechkoveugene/Work/Udacity/VRND_Nanodegree/Course4_AMaze/UdacityVR_AMaze/Assets/Udacity/Scripts/Key.cs" line="22" column="1" />
+      <Breakpoint file="/Users/chechkoveugene/Work/Udacity/VRND_Nanodegree/Course4_AMaze/UdacityVR_AMaze/Assets/Udacity/Scripts/Key.cs" line="25" column="17" />
+      <Breakpoint file="/Users/chechkoveugene/Work/Udacity/VRND_Nanodegree/Course4_AMaze/UdacityVR_AMaze/Assets/Udacity/Scripts/Key.cs" line="23" column="1" />
+      <Breakpoint file="/Users/chechkoveugene/Work/Udacity/VRND_Nanodegree/Course4_AMaze/UdacityVR_AMaze/Assets/Udacity/Scripts/Door.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
